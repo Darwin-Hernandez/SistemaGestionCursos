@@ -1,0 +1,52 @@
+# Archivos de configuración de Visual Studio
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Archivos de compilación de Visual Studio
+bin/
+obj/
+
+# Archivos de sistema
+Thumbs.db
+ehthumbs.db
+Icon?
+Desktop.ini
+
+# Archivos de logs
+*.log
+
+# Archivos de caché
+*.cache
+
+# Archivos de backups
+*.bak
+*.tmp
+*.swp
+
+# Archivos de bases de datos
+*.mdf
+*.ldf
+
+# Archivos de entornos de desarrollo
+.env
+
+# Archivos de NUnit
+TestResult.xml
+nunit-*.xml
+
+# Otros
+*.pdb
+*.class
+*.dll
+*.exe
+*.app
+
+# Archivos de ReSharper
+_ReSharper*/
+*.DotSettings
+
+# Archivos de paquetes de NuGet
+packages/
